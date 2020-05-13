@@ -19,7 +19,8 @@ Android Developer.
 - • Experience Git, Subversion
 - • Experience Automation Testing
 - • Experience CI/CD for android using Jenkins
-ls 
+
+
 ## Work Experience
 `Feb. 2018 - Feb. 2020`
 __RCH Asia.__
