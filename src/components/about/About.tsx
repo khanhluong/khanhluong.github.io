@@ -4,7 +4,7 @@ const About: React.FC = () => {
       <h2>About Me</h2>
       <p>
         I'm a senior mobile developer with experience in Android, iOS. A
-        passionate in Reac, JavaScript, and modern web technologies.
+        passionate in React, JavaScript, and modern web technologies.
       </p>
     </section>
   );
