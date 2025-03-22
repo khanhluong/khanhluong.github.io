@@ -1,0 +1,15 @@
+header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav ul {
+  justify-content: center;
+  gap: 20px;
+  display: flex;
+  list-style: none;
+}
+
+nav a {
+  text-decoration: none;
+}
