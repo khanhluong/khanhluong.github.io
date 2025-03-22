@@ -3,8 +3,18 @@ import "./Project.css";
 
 const Projects: React.FC = () => {
   const projects = [
-    { id: 1, title: "Project 1", description: "A cool web application" },
-    { id: 2, title: "Project 2", description: "An awesome mobile app" },
+    {
+      id: 1,
+      title: "Portfolio",
+      description: "A portfolio using ReactJS",
+      status: "on-going",
+    },
+    {
+      id: 2,
+      title: "Speed Odometer",
+      description: "An Android application to calculate speed",
+      status: "on-going",
+    },
   ];
   return (
     <section id='projects'>
@@ -14,6 +24,7 @@ const Projects: React.FC = () => {
           <div key={project.id} className='project-card'>
             <h3>{project.title}</h3>
             <h3>{project.description}</h3>
+            <h4>{project.status}</h4>
           </div>
         ))}
       </div>

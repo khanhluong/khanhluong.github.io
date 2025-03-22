@@ -1,0 +1,13 @@
+.location-name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  margin: 0dp;
+}
+
+@media (max-width: 600px) {
+  .experience-container {
+    max-width: 600px;
+  }
+}
