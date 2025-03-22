@@ -1,8 +1,8 @@
 {
   "name": "kenluong-portfolio",
   "private": true,
-  "version": "0.0.1",
-  "homepage": "https://khanhluong.github.io/portfolio/",
+  "version": "0.0.2",
+  "homepage": "https://khanhluong.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
